@@ -1,9 +1,9 @@
-@@import url('https://fonts.googleapis.com/css?family=poppins:200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=poppins:200,300,400,500,600,700,800,900&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'poppins' , sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -28,7 +28,7 @@ body {
 
 .CV .leftside {
   position: relative;
-  background: #E1ABFF;
+  background: Orange;
   padding: 40px;
 }
 
@@ -124,7 +124,7 @@ body {
 
 .CV .rightside {
   position: relative;
-  background: #DAFFAB;
+  background: #FFF;
   padding: 40px;
 }
 
@@ -154,12 +154,12 @@ body {
 .about .box .year_work h5 {
   text-transform: uppercase;
   font-weight: 600;
-  color: blue;
+  color: Orange;
 }
 
 .about .box .text h4 {
   text-transform: uppercase;
-  color: blue;
+  color: Orange;
   font-size: 16px;
 }
 
@@ -174,7 +174,7 @@ body {
 
 .talenten .box h4 {
   text-transform: uppercase;
-  color: blue;
+  color: Orange;
   font-weight: 500;
   margin-bottom: 5px;
 }
@@ -191,5 +191,5 @@ body {
   top: 0;
   left: 0;
   height: 100%;
-  background: blue;
+  background: Orange;
 }
